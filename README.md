@@ -2,7 +2,7 @@
 
  
 - 🔭 I’m currently working on mastering the MERN stack
-- 🌱 Learning new technologies and techniques everyday
+- 🌱 I'm learning new technologies and techniques everyday
 - 💬 Ask me anything about tech!
 - ✍  You can find some of my projects below
 
