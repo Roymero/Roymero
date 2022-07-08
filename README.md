@@ -9,7 +9,8 @@ I'm working everyday to expand my knowledge in Software Engineering and Web Deve
 - 🔭 I’m currently working on mastering the MERN stack
 - 🌱 I'm learning new technologies and techniques everyday
 - 💬 Ask me anything about tech!
-- ✍  You can find some of my projects below
+- ✍  You can find my projects in my portfolio [here](https://roymero.github.io/)
+
 
 
 ### Front-End 
