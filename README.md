@@ -1,7 +1,7 @@
 # Hello there! I'm Roy 👋
 [![Roy Romero Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-romero-0107ba222/)
 
-I'm working everyday to expand my knowledge in Software Engineering and Web Development. I have experience in Full-stack Development and Front-end Development. I'm currently searching for new opportunities.
+I'm working everyday to expand my knowledge in software engineering and web development. I have experience in Full-stack Development and Front-end Development. I'm currently searching for new opportunities.
 
 
 
