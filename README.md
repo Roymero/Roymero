@@ -6,7 +6,7 @@ I'm a Software Engineer working improve everyday. I have experience in Back-End 
 
 
  
-- 🔭 I’m currently working on mastering the MERN stack
+- 🔭 I’m currently working on mastering system design
 - 🌱 I'm learning new technologies and techniques everyday
 - 💬 Ask me anything about tech!
 - ✍  You can find my projects in my portfolio [here](https://roymero.github.io/)
@@ -40,7 +40,5 @@ I'm a Software Engineer working improve everyday. I have experience in Back-End 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
